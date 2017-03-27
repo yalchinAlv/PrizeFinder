@@ -1,0 +1,2 @@
+# PrizeFinder
+A Java game
