@@ -1,3 +1,2 @@
 # PrizeFinder
-A Java game
-\nGuess the place of the prize to win the game
+A Java game. Guess the place of the prize to win the game
